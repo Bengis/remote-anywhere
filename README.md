@@ -6,7 +6,7 @@ It's a End of Degree Project (TFG) made for the Universitat Oberta of Catalunya.
 
 Author
 --------------------
-Jose Ignacio Bengoechea Isasa, ignacio@bengis@gmail.com
+Jose Ignacio Bengoechea Isasa, ignacio.bengis@gmail.com
 
 Features
 --------------------
