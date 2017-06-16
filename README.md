@@ -4,7 +4,7 @@ Remote Administration Tool for Windows.
 
 RemoteAnywhere or rAnywhere is a simple light-weight remote administration tool made in C#
 
-It's a End of Degree Project (TFG) in Computer Sciencie. Made for the Universitat Oberta of Catalunya. http://www.uoc.edu 
+It's a End of Degree Project (TFG) in Computer Science. Made for the Universitat Oberta of Catalunya. http://www.uoc.edu 
 
 Author
 --------------------
